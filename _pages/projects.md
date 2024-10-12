@@ -1,13 +1,15 @@
 ---
-layout: page
-title: projects
+layout: news-list
+title: software
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Toolboxes and applications developed by our group.
 nav: true
-nav_order: 3
+nav_order: 5
 display_categories: [work, fun]
 horizontal: false
 ---
+
+# Software
 
 <!-- pages/projects.md -->
 <div class="projects">

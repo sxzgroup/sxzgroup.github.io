@@ -2,24 +2,38 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research group led by Prof. Shi-Xin Zhang at <a href="https://www.iop.cas.cn/"> IOP-CAS </a>
+
 
 profile:
+  name: Prof. Shi-Xin Zhang
+  position: Head of the Research Group
   align: right
-  image: prof_pic.jpg
+  href: '/members/shixinzhang'
+  email: shixinzhang@iphy.ac.cn
+  address: >
+      Institute of Physics<br />
+      Chinese Academy of Sciences<br />
+      Beijing, China
+  align: right
+  image: 001.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Welcome to our research group! Our group is led by Prof. Shi-Xin Zhang at Institute of Physics, Chinese Academy of Sciences. Our research is centered around **quantum physics and quantum computing**. Our current research interests include:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+* **Quantum computing**: quantum algorithms, quantum simulation, quantum noise, quantum software, quantum information, with an emphasis on proposals ready for near-term quantum devices.
+
+* **Non-equilibrium physics**: novel phases and phase transitions in out-of-equilibrium quantum systems, with a special focus on the entanglement and information perspective, covering topics including quantum chaos, many-body localization, time crystal, quantum scar, random quantum circuits, measurement-induced entanglement phase transition, information scrambling and protection, quantum Mpemba effects, etc.
+
+* **Artificial intelligence**: the interplay between machine learning infrastructure / models / ideas and quantum physics / quantum computing / quantum engineering, quantum machine learning, with a special focus on developing new quantum many-body numerical methods inspired by machine learning philosophy and based on machine learning systems at scale.
+
+
+
+
+[Talk to us](mailto:shixinzhang@iphy.ac.cn) or [join us]({{ '/join-us' | relative_url }}) when you are interested in these topics or our work.
