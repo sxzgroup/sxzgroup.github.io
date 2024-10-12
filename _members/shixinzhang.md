@@ -10,6 +10,8 @@ lastname: Zhang
 
 teaser: >
     I’m an Associate Professor at Institue of Physics, Chinese Academy of Sciences.
+    <br />
+    <br />
 
 
 profile:
@@ -21,6 +23,7 @@ profile:
         Chinese Academy of Sciences<br />
     align: middle
     image: 001landscape.jpg
+    miniimage: 001.png
     email: shixinzhang@iphy.ac.cn
     linkedin: zhangshixin
     orcid: 0000-0003-0347-9750
