@@ -214,15 +214,17 @@ ul.task-list input[type="checkbox"] {
 }
 
 .profile.float-right {
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 90%;
+  width: 95%;
 }
 
 .profile.float-left {
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 90%;
+  width: 95%;
 }
 
 .profile.float-middle {
