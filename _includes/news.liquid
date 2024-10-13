@@ -21,7 +21,14 @@
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}
-                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                {% if item.external_link %}
+                  <a class="news-title" href="{{ item.external_link }}">
+                    {{- item.title -}}
+                    &nbsp; <i class="fas fa-link"></i
+                  ></a>
+                {% else %}
+                  <a class="news-title" href="{{ item.url | relative_url }}">{{- item.title }}</a>
+                {% endif %}
               {% endif %}
             </td>
           </tr>

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The [website](https://sxzgroup.github.io/) for our group is online 💐
+The [website](https://sxzgroup.github.io/) for our research group is online 💐
