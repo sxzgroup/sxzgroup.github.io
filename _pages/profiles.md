@@ -10,12 +10,14 @@ groups: [Faculty]
 
 # People
 
-
 {% for group in page.groups %}
 <br>
+
 ## {{  group  }}
+
     {% assign members = site.members | sort: "lastname" | where: "group", group %}
     {% for member in members %}
+
 <p>
     <div class="card {% if member.inline == false %}hoverable{% endif %}">
         <div class="row no-gutters">
@@ -62,6 +64,7 @@ groups: [Faculty]
             </div>
         </div>
     </div>
+
 </p>
     {% endfor %}
 
