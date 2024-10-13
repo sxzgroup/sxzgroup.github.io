@@ -16,7 +16,7 @@ teaser: >
   <br />
 
 profile:
-  name: Shi-Xin Zhang
+  name: Shi-Xin Zhang (张士欣)
   position: >
     Principal Investigator<br />
     Associate Professor<br />
