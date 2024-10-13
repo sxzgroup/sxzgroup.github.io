@@ -193,8 +193,6 @@ ul.task-list input[type="checkbox"] {
 // Profile
 
 .profile {
-  width: 100%;
-
   .name {
     font-size: 1.3rem;
   }
@@ -216,24 +214,37 @@ ul.task-list input[type="checkbox"] {
 }
 
 .profile.float-right {
-  margin-left: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
 }
 
 .profile.float-left {
-  margin-right: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
 }
 
 .profile.float-middle {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 100%;
 }
 
 @media (min-width: 576px) {
-  .profile {
+  .profile.float-left {
+    margin-right: 2rem;
     width: 30%;
-
+  }
+  .profile.float-right {
+    margin-left: 2rem;
+    width: 30%;
+  }
+  .profile.float-middle {
+    width: 60%;
+  }
+  .profile {
     .address {
       p {
         display: block;
