@@ -1,6 +1,10 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"zhang":
+  - firstname: ["Shi-Xin", "S.-X.-", "S. X."]
+    url: /members/shixinzhang
+
+"yao":
+  - firstname: ["Hong", "H.", ]
+    url: https://www.ias.tsinghua.edu.cn/en/info/1059/1169.htm
 
 "podolsky":
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]

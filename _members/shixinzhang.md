@@ -30,11 +30,14 @@ profile:
     scholar: Ut8nVqIAAAAJ
     github: refraction-ray
     website: https://re-ra.xyz
+    edu: https://iop.cas.cn/rcjy/tpyjy/?id=6789
     address: >
-        Beijing China
+        Beijing, China
 ---
 
 <br>
+
+See my academic CV [here](https://re-ra.xyz/about/cv.pdf).
 
 ## Experience
 

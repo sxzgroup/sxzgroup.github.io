@@ -7,7 +7,7 @@ subtitle: Research group led by Prof. Shi-Xin Zhang at <a href="https://www.iop.
 
 profile:
   name: Prof. Shi-Xin Zhang
-  position: Head of the Research Group
+  position: Principal Investigator
   align: right
   href: '/members/shixinzhang'
   email: shixinzhang@iphy.ac.cn
