@@ -58,12 +58,15 @@ See my academic CV [here](https://re-ra.xyz/about/cv.pdf).
     {% include repository/repo_user.liquid username="refraction-ray" %}
 </div>
 
----
-
   <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% include repository/repo_trophies.liquid username="refraction-ray" %}
   </div>
-  
+---
+
+## Patents
+
+Applied for over 40 domestic and international patents focusing on key technologies in quantum computing.
+
 ---
 
 ## Publications
