@@ -11,7 +11,7 @@ lastname: Zhang
 
 teaser: >
   I’m an Associate Professor at Institue of Physics, Chinese Academy of Sciences.
-  Previously, I was an Senior Research Scientist at Tencent Quantum Lab.
+  Previously, I was a Senior Research Scientist at Tencent Quantum Lab.
   <br />
   <br />
 
