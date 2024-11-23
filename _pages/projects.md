@@ -5,7 +5,7 @@ permalink: /projects/
 description: Toolboxes and applications developed by our group.
 nav: true
 nav_order: 5
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
 
