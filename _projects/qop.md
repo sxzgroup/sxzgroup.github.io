@@ -3,7 +3,7 @@ layout: page
 title: QOP
 description: Quantum operators and algebras native in python
 img: assets/img/qop_logo.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: false
 ---

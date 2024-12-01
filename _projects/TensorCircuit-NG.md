@@ -5,7 +5,7 @@ description: Tensor network based quantum software framework - next generation
 img: assets/img/TCNG-black.jpg
 importance: 1
 category: work
-related_publications: false
+related_publications: true
 github_repos: ["refraction-ray/tensorcircuit", "tencent-quantum-lab/tensorcircuit", "tensorcircuit/tensorcircuit-ng"]
 ---
 
@@ -18,6 +18,10 @@ TensorCircuit-NG is an open-source high-performance quantum computing software f
 - <a href="https://tensorcircuit-ng.readthedocs.io/" target="_blank"><i class="fas fa-book"></i> Documentation</a>: https://tensorcircuit-ng.readthedocs.io/
 
 - <a href="https://pypi.org/project/tensorcircuit-ng/" target="_blank"><i class="fab fa-python"></i> PyPI</a>: https://pypi.org/project/tensorcircuit-ng/
+
+## The whitepaper
+
+- The whitepaper for TensorCircuit of v0.x: {% cite Zhang2022_tc %}
 
 ## History of the package
 
