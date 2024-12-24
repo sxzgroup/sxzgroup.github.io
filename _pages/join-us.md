@@ -33,15 +33,15 @@ If you’re passionate about research along relevant directions and eager to con
 
 1. Familiar with quantum many-body numerical methods such as quantum Monte Carlo (VMC, SSE, DQMC), tensor network methods (DMRG, MERA, TEBD, TDVP, PEPS), exact diagonalization, mean-field approaches, etc.
 
-2. Familiar with quantum (gauge) field theories or methods and concepts emerged in strongly correlated many-body systems.
+2. Familiar with quantum (gauge) field theories as well as methods and concepts emerged in strongly correlated many-body systems.
 
 3. Familiar with quantum algorithm design (NISQ or fault-tolerant), quantum error correction or mitigation.
 
 4. Familiar with machine learning and scientific computing ecosystem and practice in Python.
 
-5. Familiar with machine learning frameworks such as Jax, TensorFlow, PyTorch and machine learning paradigms such as automatical differentiation, variational optimization, just-in-time compilation, vectorized parallelism, and distributed training.
+5. Familiar with machine learning frameworks such as Jax, TensorFlow, PyTorch and machine learning paradigms such as automatic differentiation, variational optimization, just-in-time compilation, vectorized parallelism, and distributed training.
 
-6. Familiar with engineering tools and paradigms such as GPU, CUDA, C++, HPC, Docker, DevOps, software-engineering, cloud-computing, open-source.
+6. Familiar with engineering tools and paradigms such as GPU, CUDA, C++, HPC, Docker, DevOps, git, continuous-integration, software-engineering, cloud-computing, open-source.
 
 7. Familiar with quantum cloud platforms and quantum software such as TensorCircuit, Qiskit, Cirq, Pennylane, Mitiq, etc.
 
