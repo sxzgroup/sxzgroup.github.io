@@ -58,19 +58,3 @@ If you’re passionate about research along relevant directions and eager to con
 - <i class="fas fa-phone"></i> Tel：010-82640779
 
 - <i class="fas fa-envelope"></i> Email：shixinzhang@iphy.ac.cn
-
-```geojson
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      116.3262,
-      39.9802
-    ]
-  },
-  "properties": {
-    "name": "IOP"
-  }
-}
-```
