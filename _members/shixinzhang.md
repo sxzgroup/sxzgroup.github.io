@@ -52,6 +52,44 @@ See my academic CV [here](https://re-ra.xyz/about/cv.pdf).
 
 - 2012.8 - 2016.7, Department of Physics, Tsinghua University, BSc in Physics
 
+## Achievements
+
+#### Quantum Software
+
+Created and developed TensorCircuit:
+
+- An open-source, high-performance quantum software that provides a unified interface and infrastructure for quantum programming.
+
+- Built upon modern machine learning frameworks including TensorFlow, Jax, and PyTorch, and features an advanced tensor network contraction engine. This enables the seamless integration of tensor networks, neural networks, and quantum circuits.
+
+- Offers comprehensive solutions for hybrid CPU-GPU-QPU and distributed computing.
+
+- Widely adopted by universities, research institutes, and companies worldwide, with over 100 citations, including from research teams at Google, NVIDIA, IBM, and leading academic groups at Harvard, Caltech, and Chicago.
+
+- Selected as one of the "Top 10 Influential Events in 2022" by QuantumChina.
+
+- The only quantum software as the official baseline for NVIDIA's cuQuantum in its release.
+
+#### Quantum Algorithms
+
+- Pioneered the concept and terminology of Quantum Architecture Search (QAS). This work catalyzed the emergence of the field and established new paradigms for automated quantum circuit design. A search for "Quantum Architecture Search" on Google Scholar yields over 400 academic papers.
+
+- Developed a hybrid wavefunction ansatz that efficiently fuses quantum circuits with neural networks. This approach significantly boosts the model's expressive power and achieves an exponential speedup over non-unitary methods proposed by IBM's team.
+
+#### Non-Equilibrium Quantum Physics
+
+- Developed the theory of the quasiperiodic many-body localized (MBL) phase and phase transitions. Performed the first large-scale simulation to determine the universality class of the critical behavior in quasiperiodic MBL, establishing its robustness against random disorder.
+
+- Conducted the first investigation of the Quantum Mpemba Effect in both thermalized and MBL systems, proposing a general physical mechanism for its occurrence in generic quantum many-body systems. Pioneered the study of the Mpemba effect in the context of SU(2) symmetry, symmetry-breaking dynamics, and imaginary-time evolution, significantly impacting the field and substantially broadening the scope of Mpemba effect.
+
+- Systematically investigated the interplay between random unitary evolution, measurement, and noise, with the work being cited by Google's experimental paper in Nature.
+
+#### Differentiable Programming
+
+- Extended the paradigm of differentiable programming to a broader range of operators and workflows in quantum physics. Theoretically derived the gradients for the complex-valued singular value decomposition and contributed the implementation to TensorFlow.
+
+- My Ph.D. thesis, "Differentiable Programming in Quantum Physics," was awarded the Tsinghua University Excellent Doctoral Dissertation Award.
+
 ## Open Source
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">

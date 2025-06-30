@@ -57,4 +57,4 @@ If you’re passionate about research along relevant directions and eager to con
 
 - <i class="fas fa-phone"></i> Tel：010-82640779
 
-- <i class="fas fa-envelope"></i> Email：shixinzhang@iphy.ac.cn
+- <i class="fas fa-envelope"></i> Email：shixinzhang at iphy.ac.cn
