@@ -6,6 +6,14 @@
   - firstname: ["Hong", "H."]
     url: https://www.ias.tsinghua.edu.cn/en/info/1059/1169.htm
 
+"chen":
+  - firstname: ["Yu-Qin"]
+    url: https://cyqgroup.github.io/
+
+"xie":
+  - firstname: ["Chang-Yu"]
+    url: https://person.zju.edu.cn/changyuhsieh
+
 "podolsky":
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
