@@ -3,6 +3,60 @@
 
 @string{aps = {American Physical Society,}}
 
+@article{LIU20253991,
+  abbr = {Sci. Bull.},
+  title = {Symmetry restoration and quantum Mpemba effect in many-body localization systems},
+  journal = {Science Bulletin},
+  volume = {70},
+  number = {23},
+  pages = {3991-3996},
+  year = {2025},
+  month = {12},
+  issn = {2095-9273},
+  doi = {10.1016/j.scib.2025.10.017},
+  url = {https://www.sciencedirect.com/science/article/pii/S2095927325010394},
+  html = {https://doi.org/10.1016/j.scib.2025.10.017},
+  author = {Shuo Liu and Hao-Kai Zhang and Shuai Yin and Shi-Xin Zhang† and Hong Yao†},
+  bibtex_show = {true},
+  abstract = {Non-equilibrium dynamics of quantum many-body systems has attracted increasing attention owing to a variety of intriguing phenomena absent in equilibrium physics. A prominent example is the quantum Mpemba effect, where subsystem symmetry is restored more rapidly under a symmetric quench from a more asymmetric initial state. In this work, we investigate symmetry restoration and the quantum Mpemba effect in many-body localized systems for a range of initial states. We show that symmetry can still be restored in the many-body localization regime without approaching thermal equilibrium. Moreover, we demonstrate that the quantum Mpemba effect emerges universally for any tilted product state, in contrast to chaotic systems where its occurrence depends sensitively on the choice of the initial state. We further provide a theoretical analysis of symmetry restoration and the quantum Mpemba effect using an effective model for many-body localization. Overall, this paper fills an important gap in establishing a unified understanding of symmetry restoration and the quantum Mpemba effect in generic many-body systems, and it advances our understanding of many-body localization.},
+  preview = {mbl.png},
+  pdf = {mblmpemba.pdf}
+}
+
+@Article{cpl_42_11_110602,
+  abbr = {CPL},
+  title = {Symmetry Breaking Dynamics in Quantum Many-Body Systems},
+  journal = {Chin. Phys. Lett.},
+  volume = {42},
+  number = {11},
+  pages = {110602},
+  year = {2025},
+  month = {11},
+  doi = {10.1088/0256-307X/42/11/110602},
+  url = {http://cpl.iphy.ac.cn/en/article/doi/10.1088/0256-307X/42/11/110602},
+  html = {https://doi.org/10.1088/0256-307X/42/11/110602},
+  author = {Hui Yu and Zi-Xiang Li† and Shi-Xin Zhang†},
+  bibtex_show = {true},
+  abstract = {Entanglement asymmetry (EA) has emerged as a powerful tool for characterizing symmetry breaking in quantum many-body systems. In this Letter, we explore how symmetry is dynamically broken through the lens of EA in two distinct scenarios: a non-symmetric Hamiltonian quench and a non-symmetric random quantum circuit, with a particular focus on U(1) symmetry. In the former case, symmetry remains broken in the subsystem at late times, whereas in the latter case, the symmetry is initially broken and subsequently restored, consistent with the principles of quantum thermalization. Notably, the growth of EA exhibits unexpected overshooting behavior at early times in both contexts, contrasting with the behavior of charge variance. We also consider dynamics of non-symmetric initial states under the symmetry-breaking evolution. Due to the competition of symmetry-breaking in both the initial state and Hamiltonian, the early-time EA can increase and decrease, while quantum Mpemba effects remain evident despite the weak symmetry-breaking in both settings.},
+  pdf = {symmetry_breaking_dynamics.pdf}
+}
+
+@article{chen2025et,
+  abbr = {PRR},
+  bibtex_show = {true}, 
+  abstract = {In the pursuit of numerically identifying ground states of quantum many-body systems, approximate quantum wave function ansatzes are commonly employed. This study focuses on the spectral decomposition of these approximate quantum many-body states into exact eigenstates of the target Hamiltonian, which reflects the intricate physics at the interplay between quantum systems and numerical algorithms. Here, we examine various parametrized approximate quantum states constructed from neural networks, tensor networks, and quantum circuits, employing differentiable programming to numerically approximate ground states and imaginary-time evolved states. Our findings reveal a consistent exponential pattern in the energy eigenbasis decomposition contributions of approximate states across different ansatzes, optimization objectives, and quantum systems, characterized by remarkably small decay rates, i.e., high effective temperatures. This finding is counterintuitive for high-fidelity approximate ground states: While the total contribution from excited states can be made sufficiently small, the residual spectral weight does not decay rapidly with energy. This behavior is an intrinsic property of the variational ansatz, independent of the approximation’s overall accuracy. The effective temperature is related to ansatz expressiveness and accuracy and shows phase transition behaviors in learning imaginary-time evolved states. The universal picture and unique features suggest the significance and potential of the effective temperature metric in characterizing approximate quantum states.},
+  author = {Yu-Qin Chen† and  Shi-Xin Zhang†},
+  doi = {10.1103/zpjv-bm5c},
+  journal = {Physical Review Research},
+  month = {8},
+  pages = {033185},
+  title = {Effective temperature in approximate quantum many-body states},
+  volume = {7},
+  year = {2025},
+  html = {https://journals.aps.org/prresearch/abstract/10.1103/zpjv-bm5c},
+  pdf = {Chen2025_effectivetemperature.pdf},
+}
+
 @article{Yu2025_review,
    abbr = {AAPPS},
    abstract = {Non-equilibrium dynamics have become a central research focus, exemplified by the counterintuitive Mpemba effect where initially hotter systems can cool faster than colder ones. Studied extensively in both classical and quantum regimes, this phenomenon reveals diverse and complex behaviors across different systems. This review provides a concise overview of the quantum Mpemba effect (QME), specifically emphasizing its connection to symmetry breaking and restoration in closed quantum many-body systems. We begin by outlining the classical Mpemba effect and its quantum counterparts, summarizing key findings. Subsequently, we introduce entanglement asymmetry and charge variance as key metrics for probing the QME from symmetry perspectives. Leveraging these tools, we analyze the early- and late-time dynamics of these quantities under Hamiltonian evolution and random unitary circuits. We conclude by discussing significant challenges and promising avenues for future research.},
@@ -22,22 +76,6 @@
    pdf = {qme_review.pdf}
 }
 
-
-@article{chen2025et,
-  abbr = {PRR},
-  bibtex_show = {true}, 
-  abstract = {In the pursuit of numerically identifying ground states of quantum many-body systems, approximate quantum wave function ansatzes are commonly employed. This study focuses on the spectral decomposition of these approximate quantum many-body states into exact eigenstates of the target Hamiltonian, which reflects the intricate physics at the interplay between quantum systems and numerical algorithms. Here, we examine various parametrized approximate quantum states constructed from neural networks, tensor networks, and quantum circuits, employing differentiable programming to numerically approximate ground states and imaginary-time evolved states. Our findings reveal a consistent exponential pattern in the energy eigenbasis decomposition contributions of approximate states across different ansatzes, optimization objectives, and quantum systems, characterized by remarkably small decay rates, i.e., high effective temperatures. This finding is counterintuitive for high-fidelity approximate ground states: While the total contribution from excited states can be made sufficiently small, the residual spectral weight does not decay rapidly with energy. This behavior is an intrinsic property of the variational ansatz, independent of the approximation’s overall accuracy. The effective temperature is related to ansatz expressiveness and accuracy and shows phase transition behaviors in learning imaginary-time evolved states. The universal picture and unique features suggest the significance and potential of the effective temperature metric in characterizing approximate quantum states.},
-  author = {Yu-Qin Chen† and  Shi-Xin Zhang†},
-  doi = {10.1103/zpjv-bm5c},
-  journal = {Physical Review Research},
-  month = {8},
-  pages = {033185},
-  title = {Effective temperature in approximate quantum many-body states},
-  volume = {7},
-  year = {2025},
-  html = {https://journals.aps.org/prresearch/abstract/10.1103/zpjv-bm5c},
-  pdf = {Chen2025_effectivetemperature.pdf},
-}
 
 @article{chen2024subsystem,
    abbr = {Quantum},
