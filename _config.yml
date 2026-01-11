@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: SXZ group # the website title (if blank, full name will be used instead)
-first_name: SXZ
+title: QMIND LAB # the website title (if blank, full name will be used instead)
+first_name: QMIND
 middle_name:
-last_name: Group
+last_name: LAB
 email: shixinzhang@iphy.ac.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Research group led by Prof. Shi-Xin Zhang at IOP-CAS
+  Research group led by Prof. Shi-Xin Zhang at IOP-CAS. QMIND: Quantum Machine Intelligence & Non-equilibrium Dynamics.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

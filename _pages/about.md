@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research group led by Prof. Shi-Xin Zhang at <a href="https://www.iop.cas.cn/"> IOP-CAS </a>
+subtitle: Research group led by Prof. Shi-Xin Zhang at IOP-CAS. 
 
 
 profile:
@@ -24,7 +24,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to our research group! Our group is led by Prof. Shi-Xin Zhang at Institute of Physics, Chinese Academy of Sciences. Our research is centered around **quantum physics and quantum computing**. Our current research interests include:
+Welcome to QMIND LAB (Quantum Machine Intelligence & Non-equilibrium Dynamics)!
+
+Our research group is led by Prof. Shi-Xin Zhang at Institute of Physics, Chinese Academy of Sciences. Our research is centered around **quantum physics and quantum computing**. Our current research interests include:
 
 - **Quantum computing**: quantum algorithms, quantum simulation, quantum noise, quantum software, quantum information, with an emphasis on proposals ready for near-term quantum devices.
 
