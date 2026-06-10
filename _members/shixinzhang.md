@@ -38,7 +38,7 @@ profile:
 
 <br>
 
-See my academic CV [here](https://re-ra.xyz/about/cv.pdf).
+See my academic CV [here](https://re-ra.xyz/about/cv.pdf) and read my [external collaboration guidelines]({{ '/advisory/' | relative_url }}) for technical advisory or consulting.
 
 ## Experience
 

@@ -34,4 +34,4 @@ Our research group is led by Prof. Shi-Xin Zhang at Institute of Physics, Chines
 
 - **Artificial intelligence**: the interplay between machine learning infrastructure / models / ideas and quantum physics / quantum computing / quantum engineering, quantum machine learning, with a special focus on developing new quantum many-body numerical methods inspired by machine learning philosophy and based on machine learning systems at scale.
 
-[Talk to us](mailto:shixinzhang@iphy.ac.cn) or [join us]({{ '/join-us' | relative_url }}) when you are interested in these topics or our work.
+[Talk to us](mailto:shixinzhang@iphy.ac.cn), [join us]({{ '/join-us' | relative_url }}), or read our [external advisory guidelines]({{ '/advisory/' | relative_url }}) when you are interested in these topics or our work.
