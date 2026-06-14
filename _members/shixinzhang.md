@@ -32,6 +32,8 @@ profile:
   github: refraction-ray
   website: https://re-ra.xyz
   edu: https://iop.cas.cn/rcjy/tpyjy/?id=6789
+  blog: https://dev.to/refractionray
+  wechat: 见量见智
   address: >
     Beijing, China
 ---
