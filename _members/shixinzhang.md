@@ -74,7 +74,7 @@ Created and developed TensorCircuit and TensorCircuit-NG:
 
 #### Quantum Algorithms
 
-- Pioneered the concept and terminology of Quantum Architecture Search (QAS). This work inspired the emergence of the field and established new paradigms for automated quantum circuit design. A search for "Quantum Architecture Search" on Google Scholar yields over 500 academic papers.
+- In 2020, I coined and introduced the term **Quantum Architecture Search (QAS)**, pioneering a new research field focused on the automated discovery and optimization of quantum circuit architectures. Our paper, [*Differentiable Quantum Architecture Search*](https://arxiv.org/abs/2010.08561), first posted on arXiv in October 2020, defined QAS as the automation of quantum-circuit architecture engineering and introduced DQAS as a general differentiable framework. The field has since grown broadly, with over 800 papers containing the exact phrase “Quantum Architecture Search” indexed by Google Scholar.
 
 - Developed a hybrid wavefunction ansatz that efficiently fuses quantum circuits with neural networks. This approach significantly boosts the model's expressive power and achieves an exponential speedup over non-unitary methods proposed by IBM's team.
 
