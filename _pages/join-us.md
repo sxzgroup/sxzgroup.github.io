@@ -3,7 +3,7 @@ layout: news-list
 title: join us
 permalink: /join-us/
 nav: true
-nav_order: 6
+nav_order: 7
 map: true
 ---
 
